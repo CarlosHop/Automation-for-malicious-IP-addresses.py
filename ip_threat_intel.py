@@ -128,7 +128,7 @@ def export_json(data: list, filename="threat_intel_report.json"):
         json.dump(data, f, indent=4, ensure_ascii=False)
     print(f"\n[+] Relatório JSON gerado: {filename}")
 
-
+# Função para exportar os resultados em CSV
 def export_csv(data: list, filename="threat_intel_report.csv"):
     keys = ["ip", "overall_risk_score", "country", "abuseipdb_confidence_score", "virustotal_detections", "alienvault_pulses"]
 
