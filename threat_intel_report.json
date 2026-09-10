@@ -1,0 +1,32 @@
+[
+    {
+        "ip": "185.220.101.5",
+        "overall_risk_score": 60.0,
+        "country": "DE",
+        "details": {
+            "abuseipdb_confidence_score": 100,
+            "virustotal_detections": "0/0",
+            "alienvault_pulses": 50
+        }
+    },
+    {
+        "ip": "193.142.146.210",
+        "overall_risk_score": 0.0,
+        "country": "NL",
+        "details": {
+            "abuseipdb_confidence_score": 0,
+            "virustotal_detections": "0/0",
+            "alienvault_pulses": 0
+        }
+    },
+    {
+        "ip": "8.8.8.8",
+        "overall_risk_score": 0.0,
+        "country": "US",
+        "details": {
+            "abuseipdb_confidence_score": 0,
+            "virustotal_detections": "0/0",
+            "alienvault_pulses": 0
+        }
+    }
+]

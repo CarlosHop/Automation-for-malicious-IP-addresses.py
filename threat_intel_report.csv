@@ -1,0 +1,4 @@
+ip,overall_risk_score,country,abuseipdb_confidence_score,virustotal_detections,alienvault_pulses
+185.220.101.5,60.0,DE,100,0/0,50
+193.142.146.210,0.0,NL,0,0/0,0
+8.8.8.8,0.0,US,0,0/0,0
